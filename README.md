@@ -1,0 +1,1 @@
+Projeto embarcatech para desenvolver um codigo em C que transmita o código morse através de sinais luminosos na Placa de desenvolvimento BitDogLab, utilizando o microcontrolador RP2040 com o modulo Raspberry Pi PICO W.
